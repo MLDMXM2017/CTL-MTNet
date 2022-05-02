@@ -2,7 +2,8 @@
 
 
 # Introduction
-In this paper, a Capsule Network (CapsNet) and Transfer Learning based Mixed Task Net (CTL-MTNet) is proposed to deal with both the single-corpus and cross-corpus SER tasks simultaneously. 
+These are the source code and the supplementary materials for the paper:
+Xin-Cheng Wen#, JiaXin Ye#, Yan Luo, Yong Xu, Xuan-Ze WANG, Chang-Li Wu, Kun-Hong Liu*, CTL-MTNet: A Novel CapsNet and Transfer Learning-Based Mixed Task Net for the Single-Corpus and Cross-Corpus Speech Emotion Recognition, IJCAI 2022 
 
 # Prerequisites
 
